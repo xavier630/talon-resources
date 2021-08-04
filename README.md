@@ -8,9 +8,9 @@ A place to later collect the various resources that exist for Talon Voice.
 
 
 # Features
-## Parrot
-## Mouse
-## Eye-tracking
-## Gaming
-## Languages
+### Parrot
+### Mouse
+### Eye-tracking
+### Gaming
+### Languages
 
